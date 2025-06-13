@@ -1,39 +1,26 @@
-# DepotOfForks
+## Before using this package, read [my blogpost](https://razvanmarinescu.github.io/green-card-I-140/) and see the [final pdf](https://github.com/razvanmarinescu/EB1A/raw/master/main.pdf)
 
-This repository serves as a curated collection of forked repositories from various sources. It allows me to keep track of and potentially contribute to projects that I find interesting or useful.
+## LaTeX template & package for a complete EB-1A I-140 petition
 
-## Purpose
+This is the LaTeX template for my EB-1A I-140 petition. See my blog-post for the timeline and on how to apply.
 
-The primary reasons for maintaining this repository are:
+You are welcome to use this package to prepare your application. Also note that I anonymized certain parts of the application. 
 
-* **Centralized Tracking:** To have a single location to monitor updates and changes in upstream projects.
-* **Experimentation and Modification:** To make local modifications and experiment with code without directly affecting the original repositories.
-* **Potential Contributions:** To easily create pull requests back to the original projects when I have made valuable changes or bug fixes.
-* **Learning and Exploration:** To study and learn from the codebases of other developers and projects.
+## How to install & compile
 
-## Structure
+1. From the command line, clone the repository on your machine: 
 
-This repository directly mirrors the structure of the forked repositories. Each forked project will reside in its own subdirectory at the top level of this repository, named after the original repository (usually `username/repo-name`).
+`git clone git@github.com:razvanmarinescu/EB1A.git`
 
-## Usage
+2. Install a TeX distribution from https://www.latex-project.org/get/, & install a LaTeX compiler such as TexMaker. 
 
-You can interact with these forked repositories as you would with any other Git repository:
+3. Open main.tex in the LaTeX editor, modify the template, and compile. 
 
-* **Clone:** Clone this repository to your local machine using `git clone <repository_url>`.
-* **Navigate:** Navigate into the specific forked repository's directory to explore its code.
-* **Track Upstream:** You can configure remotes to track the original repositories to stay updated. For example, within a forked repository's directory:
-    ```bash
-    git remote add upstream <original_repository_url>
-    git fetch upstream
-    git merge upstream/main  # Or upstream/master, depending on the branch name
-    ```
-* **Make Changes:** Make your changes, commit them, and push them to your fork in this repository.
-* **Contribute:** If you want to contribute back to the original project, you can create a pull request from your fork to the upstream repository.
 
-## Contributing
+For any questions, please raise an issue on Github.
 
-Since this repository primarily contains forks, contributions are generally made by creating pull requests to the original projects from your forked copies within this repository.
+-------------------------------------------------------
 
-## License
 
-The license for each project within this repository will be the same as the license of the original repository it was forked from. Please refer to the individual repository's license file for details.
+
+Razvan Marinescu
