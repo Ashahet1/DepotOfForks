@@ -13,6 +13,7 @@ This repository currently includes:
     * A repository for AI generation guidance (`GenAIGuideByAish`).
 * **Other Projects:**
     * Additional forked repositories such as `Books`, `EB1ARyRiz`, and others.
+    * List of public api's depot for web crawling: https://github.com/public-apis/public-apis
     * I am not forking this repo but when needed can take a look: https://github.com/dotnet-presentations/blazor-workshop and playlist https://www.youtube.com/playlist?list=PLlrxD0HtieHgzfZCDP1dYD-AvB7zrQ7O2
 * **AWS SageMaker:**
     * I am not forking but this is useful Github page: https://github.com/aws-samples/amazon-sagemaker-from-idea-to-production
