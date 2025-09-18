@@ -11,6 +11,9 @@ This repository currently includes:
     * Coding University projects (`CodingUniversityByWasham`).
 * **AI/ML Guides:**
     * A repository for AI generation guidance (`GenAIGuideByAish`).
+    * Prompt Engineering Guide (https://github.com/dair-ai/Prompt-Engineering-Guide)
+    * Advanced RL Algo (https://github.com/FareedKhan-dev/all-rl-algorithms)
+    * RL Complete Understanding (https://github.com/aikorea/awesome-rl?tab=readme-ov-file)
 * **Other Projects:**
     * Additional forked repositories such as `Books`, `EB1ARyRiz`, and others.
     * List of public api's depot for web crawling: https://github.com/public-apis/public-apis
